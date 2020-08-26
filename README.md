@@ -1,2 +1,2 @@
-# tetris-gym
+# tetris
 Effort to develop tetris game for reinforcement learning in similar style to openai gym
