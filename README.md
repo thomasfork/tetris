@@ -1,2 +1,2 @@
 # tetris
-Effort to develop tetris game for reinforcement learning in similar style to openai gym
+Simple tetris game in Python.
