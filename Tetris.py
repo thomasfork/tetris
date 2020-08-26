@@ -15,8 +15,8 @@ class tetris():
 
     window_side_padding_x = 10
     window_side_padding_y = 10
-    window_block_width = 10
-    window_block_spacing = 2
+    window_block_width = 40
+    window_block_spacing = 4
 
     def __init__(self,width = None,height = None):
         if width:   self.width = width
