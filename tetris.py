@@ -77,6 +77,7 @@ class tetris():
         return
 
     def add_constant_window_elements(self):
+        #TODO: Add border elements, framing, grid outline, and other permanent UI features
         
         return
 
